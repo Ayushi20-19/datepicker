@@ -3,7 +3,8 @@
 A React-based date range picker component that allows users to select a date range, with a focus on weekdays.
 
 ---
-
+Live Link 🚀 - [DateRangePicker](https://datepicker-iota.vercel.app/)
+---
 ## Features
 - Select a date range with a start and end date.
 - Weekday-only selection (Monday to Friday).
@@ -62,6 +63,11 @@ This will start the app on `http://localhost:3000` for local development and tes
 
 ---
 
+## UI SNAPS-
+<img width="934" alt="Screenshot 2025-01-19 at 12 27 06 AM" src="https://github.com/user-attachments/assets/83f8689f-2173-4310-8f70-005c913435dc" />
+<img width="920" alt="Screenshot 2025-01-19 at 12 28 06 AM" src="https://github.com/user-attachments/assets/f57f53ee-c76f-430e-8b42-ac7944894e40" />
+
+---
 ## License
 
 The **Date Range Picker** component is licensed under the [MIT License](LICENSE).
