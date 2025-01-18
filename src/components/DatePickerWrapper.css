@@ -1,0 +1,10 @@
+.date-picker-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.date-picker-wrapper input {
+  padding: 8px;
+  width: 200px;
+  cursor: pointer;
+}
